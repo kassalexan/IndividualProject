@@ -1,0 +1,2 @@
+MessageID, Title, MessageData, DateOfSubmission, SenderID, ReceiverID
+0, γεια σου, τι καν'ς, 19/11/2018 1:14:16 πμ, 13, 8

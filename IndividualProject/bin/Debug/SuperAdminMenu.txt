@@ -1,0 +1,7 @@
+-------------------USER ADMINISTRATION-------------------
+1.View all users
+2.Search for users
+3.Create a new user
+4.Assign role to a user (change role)
+5.Edit (update) a user
+6.Delete a user

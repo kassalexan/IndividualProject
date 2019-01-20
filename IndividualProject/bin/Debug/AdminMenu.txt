@@ -1,0 +1,11 @@
+--------------------COMMUNICATION------------------------
+1.Read all Messages that were sent to me (Inbox)
+2.Read all Messages that I have sent (Sent)
+3.Send a Message
+------------------MESSAGE ADMINISTRATION-----------------
+4.View all messages from a particular date until now
+5.View all messages sent to a particular user
+6.View all messages sent from a particular user
+7.Edit a message
+8.Delete a message
+9.Logout

@@ -1,0 +1,2 @@
+MessageID, Title, MessageData, DateOfSubmission, SenderID, ReceiverID
+1023, geia xana, tapaixa, 19/11/2018 1:37:49 πμ, 3, 1

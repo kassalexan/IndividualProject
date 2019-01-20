@@ -1,0 +1,7 @@
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\Kassandra\Desktop\coding bootcamp\Individual_Project\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb

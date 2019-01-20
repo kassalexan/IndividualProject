@@ -1,0 +1,2 @@
+MessageID, Title, MessageData, DateOfSubmission, SenderID, ReceiverID
+1024, ta kataferame, Επιτέλους γράφει σε αρχείο!!, 19/11/2018 1:40:58 πμ, 7, 1
